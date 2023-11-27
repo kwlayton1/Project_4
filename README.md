@@ -16,6 +16,7 @@ Pelvic tilt is the result that happens when your pelvic muscles lean excessively
 
 # Lumbar Lordosis Angle 
 Simply stated this is the inward curve that is located in the lower portion of your back. This image displays different categories of lordosis depending on the angle size. 
+
 ![image](https://github.com/kwlayton1/Project_4/assets/132946452/2c9aed25-8a87-474e-aac8-82020dbef444)
 
 # Sacral Slope
@@ -25,8 +26,9 @@ From a mathematical standpoint, the sacral slope is the pelvic incidence - pelvi
 # Pelvic Radius 
 Based on the resources available, this measurement is a combination of the conjugate, transverse, oblique, and diagonal conjugate measurements obtained from measuring the different areas within the pelvic bones. 
 
-With the models and visuals that our group has created we feel that our model could accurately predict whether a patient could be classified as having Normal or Abnormal lumbar anatomy which could assist in the diagnosis and treatment of patients with a variety of conditions. 
 # Grades of spondylolisthesis
 Spondylolisthesis is a condition where one vertebrae comes into contact with the vertebrae below it. Spondylolisthesis is categorized into 5 different grades. The following image depicts the different grades of spondylolisthesis and the their corresponding percentages. 
 ![image](https://github.com/kwlayton1/Project_4/assets/132946452/0de820d8-816e-4f84-9a3f-6f6d9e1d524a)
 
+
+With the models and visuals that our group has created we feel that our model could accurately predict whether a patient could be classified as having Normal or Abnormal lumbar anatomy which could assist in the diagnosis and treatment of patients with a variety of conditions. 
